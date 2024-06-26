@@ -2,7 +2,7 @@
 
 - Atualmente estudo na instituição EBAC.
 - Já atuei como análista de dados utilizando ferramentas como: SQL, GCP, PowerBI.
-- Busco por oportunidades como desenvolvedor Fron End que me permitam evoluir cadvez mais.
+- Busco por oportunidades como desenvolvedor Fron End que me permitam evoluir cada vez mais.
   
 <img src='https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black'> <img src='https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white'> <img src='https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=whitt                         te'>
 
