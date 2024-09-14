@@ -1,6 +1,6 @@
 ## Olá , eu sou o Humberto Almeida  👋
 
-- Atualmente estudo na instituição EBAC.
+- Atualmente estudo na instituição EBAC  (curso: Desenvolvedor Full Stack Java).
 - Já atuei como análista de dados utilizando ferramentas como: SQL, GCP, PowerBI.
 - Busco por oportunidades como desenvolvedor Fron End que me permitam evoluir cada vez mais.
   
