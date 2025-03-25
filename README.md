@@ -13,11 +13,10 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BetoCruz&layout=compact&langs_count=7&theme=dracula"/>
 
 
- <img src="https://github-readme-stats.vercel.app/api?username=BetoCruz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-        
 
-        
-      
+
+
+
 <!--
 **BetoCruz/BetoCruz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
