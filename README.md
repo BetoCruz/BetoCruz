@@ -10,8 +10,13 @@
 
 [<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='Linkedin' height='30'>](https://www.linkedin.com/in/humberto-almeida-tecnologia-da-informacao-dba-gcp-ads/)
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BetoCruz&layout=compact&langs_count=7&theme=dracula"/>
+
+
  <img src="https://github-readme-stats.vercel.app/api?username=BetoCruz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BetoCruz&layout=compact&langs_count=7&theme=dracula"/>
+        
+
+        
       
 <!--
 **BetoCruz/BetoCruz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
